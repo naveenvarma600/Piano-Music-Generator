@@ -1,6 +1,6 @@
 
 <div align="center">
- <h2> Piano-Music_Generator</h2>
+ <h2> Piano-Music-Generator</h2>
 </div>
 
 This project uses LSTM model to generate PIANO music.
